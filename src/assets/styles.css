@@ -84,4 +84,20 @@ li{
     cursor: pointer;
 }
 
+.line-through{
+    text-decoration: line-through;
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: yellowgreen;
+}
 
